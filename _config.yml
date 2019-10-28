@@ -1,17 +1,17 @@
 # Site settings
 title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+description:    "The Usefulness of Useless Knowledge"
 baseurl:        "/tale"
 url:            "https://chesterhow.github.io"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+#google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Romeo Liu
+  url:          https://romeoliu.github.io/romeowonderland
+  email:        romeoliumath@whu.edu.cn
 
 # Build settings
 markdown:       kramdown
